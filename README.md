@@ -31,3 +31,9 @@ sample.
 [![Ranked over-expectation worklist](https://raw.githubusercontent.com/jacobtrcook/supply-chain-freight-cost-prediction/main/figures/fig8_worklist.png)](https://github.com/jacobtrcook/supply-chain-freight-cost-prediction)
 
 More projects will land here as they're ready.
+
+## Contact me
+
+- LinkedIn: [linkedin.com/in/jaketcook](https://www.linkedin.com/in/jaketcook/)
+- X: [@jacobtrcook](https://x.com/jacobtrcook)
+- Email: [jacobtrcook.dev@gmail.com](mailto:jacobtrcook.dev@gmail.com)
