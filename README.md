@@ -1,8 +1,8 @@
 ### Hi, I'm Jacob
 
-Business Intelligence Engineer working in supply chain and logistics analytics. Currently
-pursuing a Master's in Data Science, and I use this space to build things outside of work:
-end-to-end modeling projects, from raw data through a written analysis, not just notebooks.
+Business Intelligence Engineer working in supply chain and logistics analytics, with a
+Master's in Data Science. I use this space to build things outside of work: end-to-end
+modeling projects, from raw data through a written analysis, not just notebooks.
 
 **Stack**: Python (pandas, scikit-learn, boto3), SQL (Redshift and general RDBMS), data
 pipelines, and the usual ML toolkit for prediction and inference problems (gradient boosting,
