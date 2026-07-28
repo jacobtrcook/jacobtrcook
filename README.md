@@ -1,8 +1,8 @@
 ### Hi, I'm Jacob
 
 Business Intelligence Engineer working in supply chain and logistics analytics, with a
-Master's in Data Science. I use this space to build things outside of work: end-to-end
-modeling projects, from raw data through a written analysis, not just notebooks.
+Master's in Data Science. This is where I build full data science projects, end to end:
+raw data, feature engineering, modeling, and a written analysis with a business takeaway.
 
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=numpy&logoColor=white)](https://numpy.org/doc/)
