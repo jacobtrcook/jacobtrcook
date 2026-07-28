@@ -4,9 +4,16 @@ Business Intelligence Engineer working in supply chain and logistics analytics, 
 Master's in Data Science. I use this space to build things outside of work: end-to-end
 modeling projects, from raw data through a written analysis, not just notebooks.
 
-**Stack**: Python (pandas, scikit-learn, boto3), SQL (Redshift and general RDBMS), data
-pipelines, and the usual ML toolkit for prediction and inference problems (gradient boosting,
-regression, hypothesis testing).
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458.svg?style=flat&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=amazonaws&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
+
+Applied to prediction and inference problems (gradient boosting, regression, hypothesis testing)
+and end-to-end data pipelines (Redshift and general RDBMS).
 
 ## Featured project
 
